@@ -1,0 +1,8 @@
+Project Goals
+- Build a configurable dashboard that
+  - lets users select from a curated list of visualizations (3 for POC)
+  - View & edit states
+  - Add a descriptioon
+  - Can be saved once changes are made
+  - Visualizations can be resized
+  - Visualizations can be configured with new filters, titles, colors
